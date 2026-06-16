@@ -1,0 +1,1 @@
+var e={id:1,slug:`about`,title:`About Our NGO`,description:`Creating sustainable change through education, healthcare and environmental programs.`,image:`https://images.unsplash.com/photo-1469571486292-b53601020f1e`,mission:`Empowering communities through meaningful action.`,vision:`A world where every individual has opportunities to thrive.`};export{e as t};
