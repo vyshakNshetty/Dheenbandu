@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "slug": "get-involved",
+  "title": "Get Involved",
+  "description": "Become a volunteer and make a meaningful difference in people's lives.",
+  "image": "https://images.unsplash.com/photo-1529390079861-591de354faf5",
+  "ctaText": "Join Today",
+
+  "opportunities": [
+    {
+      "id": 1,
+      "title": "Volunteer",
+      "description": "Support community events and programs."
+    },
+    {
+      "id": 2,
+      "title": "Donate",
+      "description": "Help fund education and food projects."
+    },
+    {
+      "id": 3,
+      "title": "Partner",
+      "description": "Collaborate with us for greater impact."
+    }
+  ]
+}

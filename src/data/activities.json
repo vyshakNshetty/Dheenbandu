@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "slug": "activities",
+  "title": "Our Activities",
+
+  "activities": [
+    {
+      "id": 1,
+      "title": "Food Distribution",
+      "description": "Providing meals to needy families.",
+      "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433"
+    },
+    {
+      "id": 2,
+      "title": "Child Education",
+      "description": "Supporting quality education.",
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7"
+    },
+    {
+      "id": 3,
+      "title": "Tree Plantation",
+      "description": "Building a greener future.",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7"
+    }
+  ]
+}

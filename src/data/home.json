@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "slug": "home",
+  "title": "Together We Can Change Lives",
+  "description": "Join us in creating opportunities, spreading hope, and building stronger communities.",
+  "heroImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
+  "ctaText": "Become A Volunteer",
+
+  "stats": [
+    {
+      "id": 1,
+      "title": "Children Educated",
+      "value": "5000+"
+    },
+    {
+      "id": 2,
+      "title": "Meals Served",
+      "value": "15000+"
+    },
+    {
+      "id": 3,
+      "title": "Volunteers",
+      "value": "850+"
+    },
+    {
+      "id": 4,
+      "title": "Trees Planted",
+      "value": "12000+"
+    }
+  ]
+}
