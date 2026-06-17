@@ -2,7 +2,7 @@ import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 
 import HeroSection from "../components/sections/HeroSection";
-import ImpactStats from "../components/sections/ImpactStats";
+// import ImpactStats from "../components/sections/ImpactStats";
 import AboutPreview from "../components/sections/AboutPreview";
 import ActivitiesPreview from "../components/sections/ActivitiesPreview";
 import GalleryPreview from "../components/sections/GalleryPreview";
@@ -21,9 +21,9 @@ const Home = () => {
 
       <HeroSection data={homeData} />
 
-      <ImpactStats
+      {/* <ImpactStats
         stats={homeData.stats}
-      />
+      /> */}
 
       <AboutPreview
         data={aboutData}
