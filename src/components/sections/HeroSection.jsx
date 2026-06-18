@@ -34,9 +34,14 @@ const HeroSection = ({ data }) => {
               {data.description}
             </p>
 
-            <Button>
-              {data.ctaText}
-            </Button>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Button>
+                {data.primaryButton}
+              </Button>
+              <Button variant="outline">
+                {data.secondaryButton}
+              </Button>
+            </div>
           </motion.div>
 
         </div>

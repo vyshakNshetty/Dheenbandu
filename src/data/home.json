@@ -1,10 +1,16 @@
 {
   "id": 1,
   "slug": "home",
-  "title": "Together We Can Change Lives",
-  "description": "Join us in creating opportunities, spreading hope, and building stronger communities.",
-  "heroImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
-  "ctaText": "Become A Volunteer",
+
+  "title": "Help a child to reach the sky",
+
+  "description": "Deenabandhu: Fostering Dreams, Transforming Lives. Providing love, education, and opportunities for a brighter future to empower children in need.",
+
+  "heroImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1920&q=80",
+
+  "primaryButton": "Donate for corpus fund",
+
+  "secondaryButton": "Donate for a cause",
 
   "stats": [
     {

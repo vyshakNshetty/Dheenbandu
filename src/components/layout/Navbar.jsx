@@ -62,20 +62,7 @@ const Navbar = () => {
           {/* Right Side */}
           <div className="flex items-center gap-4">
             
-            {/* Dark Mode */}
-            <button
-              onClick={toggleTheme}
-              aria-label="Toggle Theme"
-              className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition"
-            >
-              {darkMode ? (
-                <FiSun size={22} />
-              ) : (
-                <FiMoon size={22} />
-              )}
-            </button>
-
-            {/* Mobile Menu Button */}
+   
             <button
               onClick={toggleMenu}
               aria-label="Toggle Menu"
